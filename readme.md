@@ -1,4 +1,4 @@
-HandmadeHaven is an online ecommerce marketplace
+HandmadeHaven is an online ecommerce marketplace for local artisians and crafters
 
 > eCommerce platform built with the MERN stack & Redux.
 
